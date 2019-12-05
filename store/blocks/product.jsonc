@@ -25,7 +25,6 @@
       "preventVerticalStretch": true
     },
     "children": [
-      "product-images",
       "product-name",
       "product-identifier.product",
       "product-price",
