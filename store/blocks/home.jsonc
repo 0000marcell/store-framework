@@ -4,7 +4,8 @@
       "rich-text",
       "info-card#button-left",
       "info-card#button-right",
-      "shelf"
+      "shelf",
+      "slider-layout#home"
     ]
   },
   "rich-text": {
@@ -37,6 +38,42 @@
       "callToActionText": "Go to Collection",
       "callToActionUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
       "textAlignment": "center"
+    }
+  },
+  "image#brand1": {
+    "props": {
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square1.png",
+      "maxHeight": "24px"
+    }
+  },
+  "image#brand2": {
+    "props": {
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square1.png",
+      "maxHeight": "24px"
+    }
+  },
+  "image#brand3": {
+    "props": {
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square1.png",
+      "maxHeight": "24px"
+    }
+  },
+  "image#brand4": {
+    "props": {
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square1.png",
+      "maxHeight": "24px"
+    }
+  },
+  "image#brand5": {
+    "props": {
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square1.png",
+      "maxHeight": "24px"
+    }
+  },
+  "image#brand6": {
+    "props": {
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square1.png",
+      "maxHeight": "24px"
     }
   }
 }
